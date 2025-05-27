@@ -7,9 +7,9 @@ GetawayGuru is a travel planning application that allows users to review travel 
 ## 🚀 Features
 
 - 🗺️ Plan travel destinations in a visual, user-friendly GUI
-- 📋 Add, view, and manage a list of places to visit
-- 💾 Save your travel plans locally
-- 🔄 Load previously saved plans
+- 📋 Review previously visited destinations
+- 💾 Receive recommendations on where to travel next based on your preferences
+- 🧑 Befriend fellow users in the database
 
 ---
 
@@ -24,7 +24,7 @@ GetawayGuru is a travel planning application that allows users to review travel 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/samienbell/GetawayGuru.git
+git clone https://github.com/samienbell/GetawayGuru
 cd GetawayGuru
 ```
 
